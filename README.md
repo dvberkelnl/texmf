@@ -10,5 +10,5 @@ To let the tex installation know about the content of the `texmf`
 directory run the following command.
 
 ```sh
-taghash ~/texmf
+texhash ~/texmf
 ```
